@@ -70,5 +70,7 @@ Bachelor of Computer Application (BCA) | GH Raisoni College of Arts, Science And
 
 Active participant in SIH (2024, 2025) and various hackathons.
 
+![Snake animation](https://github.com/Sam9857/Sam9857/blob/output/github-contribution-grid-snake.svg)
+
   
 **
