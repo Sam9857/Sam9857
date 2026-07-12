@@ -5,6 +5,8 @@
   <img width="400" height="400" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3hubXllcmk5bjZzc3FtdDY1ZG15bTdxazM4bm1vemFvc284ZnN6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gzxhg2sVsPcha29OGt/giphy.gif" />
 </p>
 
+![Snake animation](https://github.com/Sam9857/Sam9857/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 👋 Hi there
 
@@ -70,7 +72,7 @@ Bachelor of Computer Application (BCA) | GH Raisoni College of Arts, Science And
 
 Active participant in SIH (2024, 2025) and various hackathons.
 
-![Snake animation](https://github.com/Sam9857/Sam9857/blob/output/github-contribution-grid-snake.svg)
+
 
   
 **
