@@ -1,7 +1,6 @@
 ## Hello My Friend...
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhnNDRkYTE3c2kzanV5NGVxNWpxNG4wa29qYmFtYXY1bmdtMzYyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8fRwPZtbWkkX6/giphy.gif" width="300" height="150">
-</p>
+<img width="500" height="500" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/b06c7b68-b063-4a8f-b7d5-e042303f7492" />
+
 ## 👋 Hi there
 
 
