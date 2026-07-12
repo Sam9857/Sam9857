@@ -23,41 +23,39 @@
 - ⚡ Fun fact: **I enjoy breaking vulnerable labs more than playing games. Every exploit teaches something new.**
 -->**
 
-  🛠 Tech Stack & Toolkit
-Languages: Python
+  **🛠 Tech Stack & Toolkit
+* Languages: Python
 
-Security Tools: Burp Suite, Nmap, Kali Linux, Linux Commands
+* Security Tools: Burp Suite, Nmap, Kali Linux, Linux Commands
 
-Skills: Web Hunting, OSINT, Vulnerability Assessment, Penetration Testing
+* Skills: Web Hunting, OSINT, Vulnerability Assessment, Penetration Testing
 
-Practice Platforms: TryHackMe, CTF Challenges
+* Practice Platforms: TryHackMe, CTF Challenges, Infinity Labs ,Portswigger
 
 🚀 Featured Projects
-WebVulnerability Scanner: Developed a Python-based scanner to automate security testing for XSS, SQL Injection, CSRF, and Remote Code Execution.
+* WebVulnerability Scanner: Developed a Python-based scanner to automate security testing for XSS, SQL Injection, CSRF, and Remote Code Execution.
 
-BitSentinel: A collaborative cyber threat detection system featuring real-time log monitoring, risk scoring, and integration with threat intelligence APIs like VirusTotal and AbuseIPDB.
+* BitSentinel: A collaborative cyber threat detection system featuring real-time log monitoring, risk scoring, and integration with threat intelligence APIs like VirusTotal and AbuseIPDB.
 
 💼 Professional Experience
-Penetration Tester Intern | Deltaware Solution Private Limited (June 2025 – Aug 2025)
+* Penetration Tester Intern | Deltaware Solution Private Limited (June 2025 – Aug 2025)
 
-Focused on practical vulnerability assessment and secure coding practices.
+* Focused on practical vulnerability assessment and secure coding practices.
 
-Developed custom security scanning tools under expert mentorship.
+* Developed custom security scanning tools under expert mentorship.
 
-Cyber Ambassador | Cyber Cell, Nagpur Police (Aug 2025 – Sept 2025)
-
-Assisted in investigating cybercrime cases and provided support for data collection and preliminary analysis.
+* Cyber Ambassador | Cyber Cell, Nagpur Police (Aug 2025 – Sept 2025)
+  Assisted in investigating cybercrime cases and provided support for data collection and preliminary analysis.
 
 📜 Certifications
-Certified Network Security Practitioner (CNSP) 
 
-Vulnerability Assessment Penetration Testing (VAPT)
+* Certified Network Security Practitioner (CNSP) 
 
-Certified API Hacking Expert (CAPIE)
+* Certified API Hacking Expert (CAPIE)
 
-Certified Red Team Analyst
+* Certified Red Team Analyst
 
-McKinsey Forward Program (Alumni)
+* McKinsey Forward Program (Alumni)
 
 🎓 Education
 Bachelor of Computer Application (BCA) | GH Raisoni College of Arts, Science And Commerce (2023–2026)
@@ -65,3 +63,4 @@ Bachelor of Computer Application (BCA) | GH Raisoni College of Arts, Science And
 Active participant in SIH (2024, 2025) and various hackathons.
 
   
+**
