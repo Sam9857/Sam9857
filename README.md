@@ -1,6 +1,6 @@
 ## Hello My Friend...
 <p align="right">
-<img width="500" height="500" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/b06c7b68-b063-4a8f-b7d5-e042303f7492" />
+<img width="300" height="200" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/b06c7b68-b063-4a8f-b7d5-e042303f7492" />
 </p>
 ## 👋 Hi there
 
