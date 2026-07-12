@@ -1,6 +1,6 @@
 ## Hello My Friend...
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhnNDRkYTE3c2kzanV5NGVxNWpxNG4wa29qYmFtYXY1bmdtMzYyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8fRwPZtbWkkX6/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhnNDRkYTE3c2kzanV5NGVxNWpxNG4wa29qYmFtYXY1bmdtMzYyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8fRwPZtbWkkX6/giphy.gif" width="300" height="150">
 </p>
 ## 👋 Hi there
 
