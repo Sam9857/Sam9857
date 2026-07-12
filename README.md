@@ -1,8 +1,8 @@
 ## Hello My Friend...
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhpZGx1bHR2Y21zemhoMGdhMDE4dGJkYnAzaml3NjZhemxiNXV2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12g53gdURkojug/giphy.gif" width="400" height="350">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhpZGx1bHR2Y21zemhoMGdhMDE4dGJkYnAzaml3NjZhemxiNXV2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12g53gdURkojug/giphy.gif" width="300" height="300">
   
-  <img width="350" height="300" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/b06c7b68-b063-4a8f-b7d5-e042303f7492" />
+  <img width="400" height="300" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/b06c7b68-b063-4a8f-b7d5-e042303f7492" />
 </p>
 
 
