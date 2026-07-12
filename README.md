@@ -7,7 +7,7 @@
 
 
 ## 👋 Hi there
-**Sam9857/Sam9857** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on **BitSentinel – AI-Powered Cyber Threat Detection & Prevention System**
 
