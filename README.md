@@ -32,6 +32,14 @@
 
 * Practice Platforms: TryHackMe, CTF Challenges, Infinity Labs ,Portswigger
 
+
+  <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ0MTA5YWVkN3V2bGRnbXoxZXFlZDNlcXloMmZqMGVscWs2YTFnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7rbs2alIt4RaymJ1e5/giphy.gif" width="300" height="300">
+  </p>
+
+
+  
+
 🚀 Featured Projects
 * WebVulnerability Scanner: Developed a Python-based scanner to automate security testing for XSS, SQL Injection, CSRF, and Remote Code Execution.
 
